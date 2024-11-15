@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+spacy
+transformers
+torch  # If you choose PyTorch
+# or
+tensorflow  # If you choose TensorFlow
+pydantic
+requests
